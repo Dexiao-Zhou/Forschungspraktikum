@@ -1,0 +1,10 @@
+*.jpg
+data/
+*.pt
+*.venv/
+detections/
+*.svg
+*.csv
+*.pth
+*.mp4
+*.mov
